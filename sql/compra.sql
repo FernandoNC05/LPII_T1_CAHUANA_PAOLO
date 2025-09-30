@@ -17,7 +17,7 @@ CREATE TABLE pedidos (
 );
 
 INSERT INTO clientes (nombres, apellidos, celular) VALUES
-('Fernando',   'Neyra',   '900111222'),
+('Paolo',   'Cahuana',   '900111222'),
 ('María',   'Gutiérrez', '900333444'),
 ('Jorge',   'Salazar',   '900555666');
 
